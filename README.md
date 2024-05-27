@@ -1,2 +1,2 @@
 # test-book
-This is a test project
+This is another project
